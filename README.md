@@ -1,0 +1,1 @@
+# Integrated-Spark-Streaming-with-Synapse-Cosmos-DB
